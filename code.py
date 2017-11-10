@@ -1,5 +1,4 @@
 
-
 def my_factorial(n):
     if n < 0:
         raise Exception("factorial can be calculated only for positive numbers")
