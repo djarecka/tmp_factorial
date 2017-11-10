@@ -1,4 +1,4 @@
-from code import my_factorial
+from my_code import my_factorial
 
 def test_factorial():
     assert my_factorial(1) == 1
